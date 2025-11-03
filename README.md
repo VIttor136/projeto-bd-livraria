@@ -13,6 +13,8 @@
 - [x] 2 tabelas com relacionamento 1:N
 - [x] Diagrama relacional (<img width="621" height="169" alt="Diagrama_Livraria drawio" src="https://github.com/user-attachments/assets/19f047a8-6c85-4a20-a991-36d8401be9d9" />
 )
+
+
 - [x] Script SQL (`sql/criar_banco.sql`)
 - [x] Menu com 5 opções
 - [x] Splash Screen + contagem
