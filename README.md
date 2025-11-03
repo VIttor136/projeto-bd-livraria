@@ -15,24 +15,16 @@
 )
 
 
-- [x] Script SQL ([sql/criar_banco.sql](https://raw.githubusercontent.com/seu-usuario/projeto-bd-livraria/main/sql/criar_banco.sql))
+- [x] Script SQL 
 - [x] Menu com 5 opções
 - [x] Splash Screen + contagem
 - [x] CRUD completo
 - [x] Relatórios com `JOIN` e `GROUP BY`
 - [x] Tratamento de erro na FK
 
----
 
-## Como Executar
-1. Execute `sql/criar_banco.sql`
-2. Rode `src/Trabalho/Principal.java`
 
----
 
-## Vídeo de Demonstração
-[Assista aqui](video/demonstracao.mp4)
 
----
 
-**Projeto 100% conforme o edital!**
+
