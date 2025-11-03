@@ -15,7 +15,7 @@
 )
 
 
-- [x] Script SQL (`sql/criar_banco.sql`)
+- [x] Script SQL ([sql/criar_banco.sql](https://raw.githubusercontent.com/seu-usuario/projeto-bd-livraria/main/sql/criar_banco.sql))
 - [x] Menu com 5 opções
 - [x] Splash Screen + contagem
 - [x] CRUD completo
